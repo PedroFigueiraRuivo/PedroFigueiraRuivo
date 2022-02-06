@@ -1,7 +1,7 @@
 ## Olá! Me chamo Pedro figueira e...
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFigueiraRuivo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFigueiraRuivo&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=PedroFigueiraRuivo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFigueiraRuivo&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div align="center"><br>
 <a href="https://instagram.com/pedrofigueira.ruivo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
